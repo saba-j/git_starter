@@ -2,9 +2,14 @@
 
 Use `git status` to list all new or mod files.
 
-```python
-print("Hello World")
-a = 10
-print(f"a = {a}")
+```vhdl
+entity my_entity is
+port(
+ in_port1 : in std_logic;
+ in_port2 : in std_logic;
+ 
+ out_port1 : out std_logic;
+ out_port2 : out std_logic);
+end my_entity;
 ```
 
