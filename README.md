@@ -15,3 +15,7 @@ end my_entity;
 
 This site was built using [GitHub Pages](https://pages.github.com).
 
+![Image from Internet](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png).
+
+![Image from local rep](./octocat/Octocat.png).
+
