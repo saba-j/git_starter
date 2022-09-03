@@ -1,7 +1,10 @@
 # Main title h1 - Documentation of Git Starter guide
 
-**This is line1**  
-*This is line2*  
-~This is line3~  
-**This is _line4_**  
-***This is line5*** 
+Use `git status` to list all new or mod files.
+
+```python
+print("Hello World")
+a = 10
+print(f"a = {a}")
+```
+
